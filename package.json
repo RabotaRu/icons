@@ -1,24 +1,25 @@
 {
   "name": "@rabota/icons",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Material Design icons by Google for Rabota.ru",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/google/material-design-icons"
+    "url": "https://github.com/RabotaRu/icons"
   },
   "keywords": [
     "icons",
     "material",
     "material-design",
-    "google"
+    "google",
+    "rabotaru"
   ],
   "author": "Material Design Authors",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/google/material-design-icons/issues"
+    "url": "https://github.com/RabotaRu/icons/issues"
   },
-  "homepage": "https://github.com/google/material-design-icons",
+  "homepage": "https://github.com/RabotaRu/icons",
   "devDependencies": {
     "babel-core": "^6.1.2",
     "babel-preset-es2015": "^6.1.2",
