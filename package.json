@@ -1,7 +1,7 @@
 {
-  "name": "material-design-icons",
-  "version": "3.0.1",
-  "description": "Material Design icons by Google",
+  "name": "@rabota/icons",
+  "version": "1.0.0",
+  "description": "Material Design icons by Google for Rabota.ru",
   "main": "index.js",
   "repository": {
     "type": "git",
